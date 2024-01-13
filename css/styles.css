@@ -1,0 +1,21 @@
+.userEmail {
+    color: green;
+    font-weight: bold;
+}
+
+.userId {
+    color: #000;
+    font-weight: bold;
+}
+
+
+body{
+    background-color: #f7f6f6;
+}
+
+table{
+    background-color: #0a4f70;
+    color: #fff;
+}
+
+
